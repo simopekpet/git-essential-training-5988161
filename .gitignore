@@ -4,3 +4,5 @@ node_modules
 npm-debug.log
 
 log02.log
+
+ThirdFolder/*.log
